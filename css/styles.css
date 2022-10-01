@@ -55,6 +55,26 @@
     line-height: 2;
 } 
 
+.Chirag-Khatri {
+    padding: 7% 15%;
+    background-color: #FAF4B7;
+    text-align: center;
+}
+
+#Chirag-Khatri {
+    font-family: 'Sacramento';
+}
+
+}
+#Chirag-Khatri-Para {
+    font-family: 'Montserrat';
+    line-height: 2;
+}
+
+.twt {
+    padding-top: 10px;
+    width: 20px;
+}
 
 .Lea-Guedj {
     padding: 7% 15%;
