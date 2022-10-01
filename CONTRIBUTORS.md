@@ -13,6 +13,11 @@
 - Bio: Student, Learning Web Development
 - GitHub: [Aditi Bendre](https://github.com/AditiBendre)
 
+# Name: Chirag
+- Place: India
+- Bio: Student, Learning Frontend Development
+- GitHub: [Chirag Khatri](https://github.com/chiragkhatri19)
+
 # Name: Lea
 - Place: France
 - Bio: Journalist, Learning Web Development
